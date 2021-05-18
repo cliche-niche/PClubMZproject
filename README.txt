@@ -19,8 +19,8 @@ in "SmallTest/". Running "savedModel.py" uses these files to predict and prints 
 (The original dataset had .wav files in a folder called "Train/" and and the corresponding .png files were stored in "Trainimg/". Similarly, for "Test/".)
 
 
-
-
+"Extra/" contains a program, "sort.py" that wasn't directly related to the model but was useful nonetheless,
+and a program, "spectro.py" that makes a spectrogram of a file, a .wav file, and it's spectrogram.
 
 
 Some links I referred to:
